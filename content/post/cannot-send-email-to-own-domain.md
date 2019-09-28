@@ -5,7 +5,8 @@ draft: false
 ---
 
 1. vi /etc/postfix/main.cf
-2. remove the domain 
+2. remove the domain
+
 ```
 ...
 ...
