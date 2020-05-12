@@ -1,9 +1,0 @@
-baseURL = "https://ismael.casimpan.com/quicktasks-postfix"
-languageCode = "en-us"
-title = "Quick Tasks: Postfix"
-theme = "basics"
-
-[params]
-    author = "Ismael Casimpan"
-    github = "icasimpan"
-    #gitlab = "username2"
