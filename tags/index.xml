@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Postfix | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-postfix/tags/</link>
+    <description>Recent content in Tags on Postfix | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Mar 2020 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-postfix/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>postfix</title>
+      <link>https://ismael.casimpan.com/quicktasks-postfix/tags/postfix/</link>
+      <pubDate>Wed, 11 Mar 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-postfix/tags/postfix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cannot-send</title>
+      <link>https://ismael.casimpan.com/quicktasks-postfix/tags/cannot-send/</link>
+      <pubDate>Sat, 28 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-postfix/tags/cannot-send/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>encryption</title>
+      <link>https://ismael.casimpan.com/quicktasks-postfix/tags/encryption/</link>
+      <pubDate>Sat, 28 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-postfix/tags/encryption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>own-domain</title>
+      <link>https://ismael.casimpan.com/quicktasks-postfix/tags/own-domain/</link>
+      <pubDate>Sat, 28 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-postfix/tags/own-domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>queue</title>
+      <link>https://ismael.casimpan.com/quicktasks-postfix/tags/queue/</link>
+      <pubDate>Sat, 28 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-postfix/tags/queue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eliminate</title>
+      <link>https://ismael.casimpan.com/quicktasks-postfix/tags/eliminate/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-postfix/tags/eliminate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
